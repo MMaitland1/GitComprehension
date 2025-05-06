@@ -1,0 +1,1359 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.15 Chrome/134.0.6998.205 Electron/35.2.1 Safari/537.36" version="26.2.15">
+  <diagram name="Page-1" id="UNqBjXq3el3nkRgxtfPc">
+    <mxGraphModel dx="4138" dy="4280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4250" pageHeight="1800" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="I2iralB9Y14JaPnRJJGt-224" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="2246.75" y="-1475" width="341" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-225" value="" style="html=1;shape=mxgraph.er.anchor;whiteSpace=wrap;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-224">
+          <mxGeometry y="250" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-226" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-224">
+          <mxGeometry x="172.5" y="18.5" width="153.45000000000002" height="333" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-218" value="Main is a default automaticly created branch. It represents the front of your project&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-224">
+          <mxGeometry x="10.5" y="30" width="159.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-216" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-224">
+          <mxGeometry x="209.23000000000002" y="30" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-217" value="Main" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-224">
+          <mxGeometry x="219.23000000000002" y="35" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-212" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-224">
+          <mxGeometry x="209.23000000000002" y="95" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-213" value="Head" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-224">
+          <mxGeometry x="219.23000000000002" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-219" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-224">
+          <mxGeometry x="209.23000000000002" y="160" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-220" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Commit - 1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-224">
+          <mxGeometry x="205.61000000000013" y="189" width="80.25" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-227" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-224">
+          <mxGeometry x="209.23000000000002" y="260" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-228" value="B - 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-224">
+          <mxGeometry x="219.23000000000002" y="265" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-214" value="This is you.&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-224">
+          <mxGeometry x="10.5" y="105" width="79.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-215" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;It points to the branch or commit you are looking at&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-224">
+          <mxGeometry x="15.75" y="120" width="149.5" height="29.5" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-229" value="The first commit of most projects is basic inizilization&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-224">
+          <mxGeometry x="13.25" y="172.5" width="154.5" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-230" value="Branches allow for version splits to happen&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-224">
+          <mxGeometry x="10.5" y="255" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-163" value="" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1655.38" y="-1627.5" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-158" value="" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1255.38" y="-1627.5" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-154" value="" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1455.38" y="-1627.5" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Working Directory&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1040.38" y="-1582.5" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Staging Area&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1287.88" y="-1585" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-7" value="&lt;i&gt;Folder / Your Computer&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1060.38" y="-1532.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-10" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Github Website&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1690.38" y="-1545" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-12" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1620.38" y="-1700" as="sourcePoint" />
+            <mxPoint x="1620.38" y="-1480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1620.38" y="-1550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-14" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Local&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1120.38" y="-1695" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-15" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Remote&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1665.38" y="-1700" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-16" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1050.38" y="-1645" as="sourcePoint" />
+            <mxPoint x="1820.38" y="-1645" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-18" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1120.38" y="-1355" as="sourcePoint" />
+            <mxPoint x="1320.38" y="-1355" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-19" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Git Add&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_6Ugzg3BD1Cbug45hPQd-18" vertex="1" connectable="0">
+          <mxGeometry x="-0.08" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-24" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Git Add&lt;/h1&gt;&lt;table style=&quot;text-wrap-mode: nowrap;&quot; class=&quot;w-fit min-w-(--thread-content-width)&quot; data-end=&quot;1955&quot; data-start=&quot;1054&quot;&gt;&lt;tbody data-end=&quot;1955&quot; data-start=&quot;1256&quot;&gt;&lt;tr data-end=&quot;1355&quot; data-start=&quot;1256&quot;&gt;&lt;td data-col-size=&quot;sm&quot; data-end=&quot;1285&quot; data-start=&quot;1256&quot;&gt;&lt;code data-end=&quot;1269&quot; data-start=&quot;1258&quot;&gt;git add .&lt;/code&gt;&lt;/td&gt;&lt;td data-col-size=&quot;md&quot; data-end=&quot;1355&quot; data-start=&quot;1285&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Stages all changes in current dir and subdirs&lt;/td&gt;&lt;/tr&gt;&lt;tr data-end=&quot;1455&quot; data-start=&quot;1356&quot;&gt;&lt;td data-col-size=&quot;sm&quot; data-end=&quot;1385&quot; data-start=&quot;1356&quot;&gt;&lt;code data-end=&quot;1370&quot; data-start=&quot;1358&quot;&gt;git add -A&lt;/code&gt;&lt;/td&gt;&lt;td data-col-size=&quot;md&quot; data-end=&quot;1455&quot; data-start=&quot;1385&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Stages all changes (adds, mods, deletions)&lt;/td&gt;&lt;/tr&gt;&lt;tr data-end=&quot;1555&quot; data-start=&quot;1456&quot;&gt;&lt;td data-col-size=&quot;sm&quot; data-end=&quot;1485&quot; data-start=&quot;1456&quot;&gt;&lt;code data-end=&quot;1470&quot; data-start=&quot;1458&quot;&gt;git add -u&lt;/code&gt;&lt;/td&gt;&lt;td data-end=&quot;1555&quot; data-start=&quot;1485&quot; data-col-size=&quot;md&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Stages modifications and deletions, but no untracked files&lt;/td&gt;&lt;/tr&gt;&lt;tr data-end=&quot;1655&quot; data-start=&quot;1556&quot;&gt;&lt;td data-col-size=&quot;sm&quot; data-end=&quot;1585&quot; data-start=&quot;1556&quot;&gt;&lt;code data-end=&quot;1570&quot; data-start=&quot;1558&quot;&gt;git add -p&lt;/code&gt;&lt;/td&gt;&lt;td data-end=&quot;1655&quot; data-start=&quot;1585&quot; data-col-size=&quot;md&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Interactive patch mode: stage parts of files line-by-line&lt;/td&gt;&lt;/tr&gt;&lt;tr data-end=&quot;1755&quot; data-start=&quot;1656&quot;&gt;&lt;td data-col-size=&quot;sm&quot; data-end=&quot;1685&quot; data-start=&quot;1656&quot;&gt;&lt;code data-end=&quot;1683&quot; data-start=&quot;1658&quot;&gt;git add --intent-to-add&lt;/code&gt;&lt;/td&gt;&lt;td data-end=&quot;1755&quot; data-start=&quot;1685&quot; data-col-size=&quot;md&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Adds a file without staging content (for placeholder commits)&lt;/td&gt;&lt;/tr&gt;&lt;tr data-end=&quot;1855&quot; data-start=&quot;1756&quot;&gt;&lt;td data-col-size=&quot;sm&quot; data-end=&quot;1785&quot; data-start=&quot;1756&quot;&gt;&lt;code data-end=&quot;1781&quot; data-start=&quot;1758&quot;&gt;git add --interactive&lt;/code&gt;&lt;/td&gt;&lt;td data-col-size=&quot;md&quot; data-end=&quot;1855&quot; data-start=&quot;1785&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Full menu-based staging interface in the terminal&lt;/td&gt;&lt;/tr&gt;&lt;tr data-end=&quot;1955&quot; data-start=&quot;1856&quot;&gt;&lt;td data-col-size=&quot;sm&quot; data-end=&quot;1885&quot; data-start=&quot;1856&quot;&gt;&lt;code data-end=&quot;1870&quot; data-start=&quot;1858&quot;&gt;git add -N&lt;/code&gt;&lt;/td&gt;&lt;td data-end=&quot;1955&quot; data-start=&quot;1885&quot; data-col-size=&quot;md&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Mark file as &quot;intent to add&quot; without content (similar to&amp;nbsp;&lt;code data-end=&quot;1948&quot; data-start=&quot;1944&quot;&gt;-i&lt;/code&gt;)&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1065.38" y="-906.25" width="530" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-27" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Git Basic&lt;/h1&gt;&lt;p&gt;When git is initilized a hidden folder called &lt;i&gt;.git&lt;/i&gt; is created. This folder becomes your &lt;b style=&quot;font-style: italic;&quot;&gt;Local Repository(&lt;/b&gt;The place where your files are storied&lt;b style=&quot;font-style: italic;&quot;&gt;)&lt;/b&gt;. The place where the &lt;i&gt;.git&lt;/i&gt; folder is located is the &lt;b&gt;&lt;i&gt;Working Directory.&amp;nbsp;&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&amp;nbsp; &amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="102.5" y="-1740" width="800" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-64" value="This represents the data within files. This is, in the most literal form, the exact contents of a file. It is hashed and stored as raw data. Whenever a change is made to a file, a new blob representing the new data is made. Git checks to see if a Blob already exists with that content and, if not, stores it in the .git/objects/ folder." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="112.5" y="-1490" width="410" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-66" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;i style=&quot;&quot;&gt;Tree&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="532.5" y="-1520" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-69" value="This represents a file instance or a directory.&amp;nbsp;A tree doesn’t store the actual data itself—it maps file paths to blobs or other trees. Trees are recursive, meaning they can point to other trees to represent nested directory structures. It&#39;s made up of:" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="542.5" y="-1485" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-73" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=11;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="542.5" y="-1430" width="390" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-74" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="_6Ugzg3BD1Cbug45hPQd-73" vertex="1">
+          <mxGeometry width="390" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-75" value="&lt;strong data-end=&quot;745&quot; data-start=&quot;737&quot;&gt;Mode&lt;/strong&gt;: Unix-style permissions (read/write, executable, link, directory)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" parent="_6Ugzg3BD1Cbug45hPQd-74" vertex="1">
+          <mxGeometry width="390" height="36" as="geometry">
+            <mxRectangle width="390" height="36" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-76" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="_6Ugzg3BD1Cbug45hPQd-73" vertex="1">
+          <mxGeometry y="36" width="390" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-77" value="&lt;strong data-end=&quot;824&quot; data-start=&quot;816&quot;&gt;Type&lt;/strong&gt;: One of the 4 main Git object types (Blob, Tree, Commit, Tag)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" parent="_6Ugzg3BD1Cbug45hPQd-76" vertex="1">
+          <mxGeometry width="390" height="24" as="geometry">
+            <mxRectangle width="390" height="24" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-78" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="_6Ugzg3BD1Cbug45hPQd-73" vertex="1">
+          <mxGeometry y="60" width="390" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-79" value="&lt;strong data-end=&quot;899&quot; data-start=&quot;891&quot;&gt;Hash&lt;/strong&gt;: A value calculated after all the values are set and acts as the name or main identifier for the tree" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" parent="_6Ugzg3BD1Cbug45hPQd-78" vertex="1">
+          <mxGeometry width="390" height="37" as="geometry">
+            <mxRectangle width="390" height="37" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-80" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="_6Ugzg3BD1Cbug45hPQd-73" vertex="1">
+          <mxGeometry y="97" width="390" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-81" value="&lt;strong data-end=&quot;1018&quot; data-start=&quot;1006&quot;&gt;Filename&lt;/strong&gt;: The name of the affiliated file or directory" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" parent="_6Ugzg3BD1Cbug45hPQd-80" vertex="1">
+          <mxGeometry width="390" height="34" as="geometry">
+            <mxRectangle width="390" height="34" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-83" value="This points to a tree and represents a captured point in time of your project. A commit is a snapshot of your project at one point in time. The contents are:" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="112.5" y="-1370" width="410" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-84" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=11;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="122.5" y="-1330" width="400" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-85" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="_6Ugzg3BD1Cbug45hPQd-84" vertex="1">
+          <mxGeometry width="400" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-86" value="&lt;strong data-end=&quot;1515&quot; data-start=&quot;1507&quot;&gt;Tree&lt;/strong&gt;: Represents the current root directory and its full structure." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" parent="_6Ugzg3BD1Cbug45hPQd-85" vertex="1">
+          <mxGeometry width="400" height="20" as="geometry">
+            <mxRectangle width="400" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-87" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="_6Ugzg3BD1Cbug45hPQd-84" vertex="1">
+          <mxGeometry y="20" width="400" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-88" value="&lt;strong data-end=&quot;1600&quot; data-start=&quot;1583&quot;&gt;Parent Commit&lt;/strong&gt;: The commit(s) this one is built on top of. If there is none, it&#39;s the first commit. If there are two parents, this commit is the result of a merge." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" parent="_6Ugzg3BD1Cbug45hPQd-87" vertex="1">
+          <mxGeometry width="400" height="34" as="geometry">
+            <mxRectangle width="400" height="34" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-89" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="_6Ugzg3BD1Cbug45hPQd-84" vertex="1">
+          <mxGeometry y="54" width="400" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-90" value="&lt;strong data-end=&quot;1776&quot; data-start=&quot;1754&quot;&gt;Author / Committer&lt;/strong&gt;: The Git information of the person who wrote and/or applied the commit" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" parent="_6Ugzg3BD1Cbug45hPQd-89" vertex="1">
+          <mxGeometry width="400" height="36" as="geometry">
+            <mxRectangle width="400" height="36" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-91" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="_6Ugzg3BD1Cbug45hPQd-84" vertex="1">
+          <mxGeometry y="90" width="400" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-92" value="&lt;strong data-end=&quot;1863&quot; data-start=&quot;1852&quot;&gt;Message&lt;/strong&gt;: A message describing the commit" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" parent="_6Ugzg3BD1Cbug45hPQd-91" vertex="1">
+          <mxGeometry width="400" height="34" as="geometry">
+            <mxRectangle width="400" height="34" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-95" value="A tag is a reference to another Git object—usually a commit—and is used to &lt;strong data-end=&quot;2185&quot; data-start=&quot;2175&quot;&gt;freeze&lt;/strong&gt; that commit in place under a human-readable name. While branches are movable pointers that shift as work continues, &lt;strong data-end=&quot;2321&quot; data-start=&quot;2302&quot;&gt;a tag is locked&lt;/strong&gt; to a single commit and does not change unless explicitly deleted and replaced.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;strong style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;2453&quot; data-start=&quot;2434&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Lightweight Tag&lt;/strong&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;A simple alias pointing to a commit. No message or metadata—just a &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;label.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;strong style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;2548&quot; data-start=&quot;2531&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Annotated Tag&lt;/strong&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;A full Git object containing metadata like the tagger&#39;s name, date, a &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;message, and optional signature.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Annotated tag look like this:&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="112.5" y="-1110" width="410" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-114" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=11;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="112.5" y="-952" width="420" height="172" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-115" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="_6Ugzg3BD1Cbug45hPQd-114" vertex="1">
+          <mxGeometry width="420" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-116" value="&lt;strong data-end=&quot;2771&quot; data-start=&quot;2761&quot;&gt;Object&lt;/strong&gt;: The hash of the commit (or any Git object) it points to" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" parent="_6Ugzg3BD1Cbug45hPQd-115" vertex="1">
+          <mxGeometry width="420" height="36" as="geometry">
+            <mxRectangle width="420" height="36" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-117" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="_6Ugzg3BD1Cbug45hPQd-114" vertex="1">
+          <mxGeometry y="36" width="420" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-118" value="&lt;strong data-end=&quot;2841&quot; data-start=&quot;2833&quot;&gt;Type&lt;/strong&gt;: The type of the referenced object (usually commit)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" parent="_6Ugzg3BD1Cbug45hPQd-117" vertex="1">
+          <mxGeometry width="420" height="33" as="geometry">
+            <mxRectangle width="420" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-119" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="_6Ugzg3BD1Cbug45hPQd-114" vertex="1">
+          <mxGeometry y="69" width="420" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-120" value="&lt;strong data-end=&quot;2910&quot; data-start=&quot;2898&quot;&gt;Tag Name&lt;/strong&gt;: The name of the tag" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" parent="_6Ugzg3BD1Cbug45hPQd-119" vertex="1">
+          <mxGeometry width="420" height="36" as="geometry">
+            <mxRectangle width="420" height="36" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-121" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="_6Ugzg3BD1Cbug45hPQd-114" vertex="1">
+          <mxGeometry y="105" width="420" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-122" value="&lt;strong data-end=&quot;2946&quot; data-start=&quot;2936&quot;&gt;Tagger&lt;/strong&gt;: Git user who created the tag" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" parent="_6Ugzg3BD1Cbug45hPQd-121" vertex="1">
+          <mxGeometry width="420" height="33" as="geometry">
+            <mxRectangle width="420" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-133" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="_6Ugzg3BD1Cbug45hPQd-114" vertex="1">
+          <mxGeometry y="138" width="420" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-134" value="&lt;strong data-end=&quot;2992&quot; data-start=&quot;2981&quot;&gt;Message&lt;/strong&gt;: Description of the tag, often release notes" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" parent="_6Ugzg3BD1Cbug45hPQd-133" vertex="1">
+          <mxGeometry width="420" height="34" as="geometry">
+            <mxRectangle width="420" height="34" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-135" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Git Objects&lt;/h1&gt;&lt;p&gt;Git is built on four main object types: &lt;i&gt;&lt;strong data-end=&quot;49&quot; data-start=&quot;40&quot;&gt;blobs&lt;/strong&gt;, &lt;strong data-end=&quot;60&quot; data-start=&quot;51&quot;&gt;trees&lt;/strong&gt;, &lt;strong data-end=&quot;73&quot; data-start=&quot;62&quot;&gt;commits&lt;/strong&gt;, &lt;/i&gt;and&lt;i&gt; &lt;strong data-end=&quot;87&quot; data-start=&quot;79&quot;&gt;tags&lt;/strong&gt;&lt;/i&gt;. Blobs store file contents, trees represent directory structures, commits capture project snapshots, and tags mark specific points in history. Together, they form Git’s internal system for tracking and organizing changes.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="102.5" y="-1640" width="800" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-137" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Blob&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" parent="1" vertex="1">
+          <mxGeometry x="102.5" y="-1520" width="430" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-140" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Commit&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=90;height=30;" parent="1" vertex="1">
+          <mxGeometry x="102.5" y="-1400" width="430" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-141" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Tag&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" parent="1" vertex="1">
+          <mxGeometry x="102.5" y="-1200" width="430" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-143" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Tree&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" parent="1" vertex="1">
+          <mxGeometry x="532.5" y="-1520" width="400" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-144" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Git Local&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;fillColor=none;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;strokeColor=none;stackBorder=10;stackSpacing=-12;resizable=1;align=center;points=[];whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="556.5" y="-1260" width="362" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-145" value="Working&lt;br&gt;Directory" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;" parent="_6Ugzg3BD1Cbug45hPQd-144" vertex="1">
+          <mxGeometry x="10" y="33" width="122" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-146" value="Staging&lt;br&gt;Area" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;" parent="_6Ugzg3BD1Cbug45hPQd-144" vertex="1">
+          <mxGeometry x="120" y="33" width="122" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-147" value="Git (Local)&lt;br&gt;Repository" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;" parent="_6Ugzg3BD1Cbug45hPQd-144" vertex="1">
+          <mxGeometry x="230" y="33" width="122" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-149" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Working Directory&lt;/h1&gt;&lt;p&gt;This is the Folder we are working out of, the projects root directory. This is where we interface, create, edit and delete files here. Git can see these files but are&#39;nt tracked until they are added with the add command.&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="542.5" y="-1150" width="390" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-150" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Staging Area&lt;/h1&gt;&lt;p&gt;This is the virtual storing area. Its physivally represented by the git/index fille. Basically being a file filled with blobs that represent the area before commits. There is no visual for this without plug ins or add ons. When the Git add is ran a blob is created and/or assigned a filename.&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="542.5" y="-1030" width="390" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-151" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Local Repository&lt;/h1&gt;&lt;p&gt;This is our hidden repository/database. It contains all blobs, trees, commits, tags. After every commit everything git related to out current project is stored via hash.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="542.5" y="-910" width="390" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-156" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Local Repository&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1490.38" y="-1565" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-157" value="VSCode" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" parent="1" vertex="1">
+          <mxGeometry x="1055.38" y="-1627.5" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-160" value="/git/index/" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1325.38" y="-1527.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-165" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1320.38" y="-1345" as="sourcePoint" />
+            <mxPoint x="1514.38" y="-1345" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-166" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Git Commit&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_6Ugzg3BD1Cbug45hPQd-165" vertex="1" connectable="0">
+          <mxGeometry x="-0.08" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-171" value="&lt;br&gt;&lt;div&gt;&lt;h2 style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Git Commit&lt;/font&gt;&lt;/h2&gt;&lt;pre style=&quot;&quot;&gt;&lt;code&gt;git commit                     &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Creates a new commit from staged changes (opens editor)&lt;br&gt;git commit -m &quot;msg&quot;            &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Commits staged changes with a message inline&lt;br&gt;git commit -a -m &quot;msg&quot;         &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Stages all tracked changes and commits them (skips untracked files)&lt;br&gt;git commit --amend             &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Rewrites the previous commit (message and/or content)&lt;br&gt;git commit --no-edit           &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Used with --amend to keep the previous message&lt;br&gt;git commit --allow-empty       &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Creates a commit with no staged changes (empty snapshot)&lt;br&gt;git commit --allow-empty-message  &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Creates a commit with no commit message&lt;br&gt;git commit -v                  &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Shows staged diff in the commit editor&lt;br&gt;git commit -e                  &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Opens the editor even if -m is provided&lt;br&gt;git commit --author=&quot;Name &amp;lt;email&amp;gt;&quot;  &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Overrides the commit author info&lt;br&gt;git commit --date=&quot;YYYY-MM-DD HH:MM:SS&quot; Sets a custom commit date&lt;br&gt;git commit -S                  &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Signs the commit using your GPG key&lt;br&gt;git commit --signoff           &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Adds a “Signed-off-by” line to the commit message&lt;br&gt;git commit --no-verify         &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Skips pre-commit and commit-msg hooks (use cautiously)&lt;br&gt;git commit -q                  &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Suppresses commit output (quiet mode)&lt;br&gt;git commit --cleanup=mode      &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Controls how Git cleans the commit message (e.g. strip, verbatim)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1065.38" y="-727.78" width="720" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-173" value="&lt;h2&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Git Remote&lt;/font&gt;&lt;/h2&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;pre style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;code&gt;git remote                  &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Lists remote connections&lt;br&gt;git remote -v               &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Lists remotes with fetch/push URLs&lt;br&gt;git remote add &amp;lt;name&amp;gt; &amp;lt;url&amp;gt; &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Adds a new remote connection&lt;br&gt;git remote remove &amp;lt;name&amp;gt;    &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Removes a remote&lt;br&gt;git remote rename &amp;lt;old&amp;gt; &amp;lt;new&amp;gt; &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Renames a remote&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;div&gt;&lt;code&gt;&lt;br&gt;&lt;/code&gt;&lt;/div&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1065.38" y="-1150.25" width="450" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-175" value="&lt;h2 style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Git Pull &amp;amp; Fetch&lt;/font&gt;&lt;/h2&gt;&lt;pre style=&quot;&quot;&gt;&lt;code&gt;git fetch                   Downloads new data from remote but doesn’t merge&lt;br&gt;git pull                    Fetches and merges from remote&lt;br&gt;git pull --rebase           Fetches and rebases instead of merging&lt;/code&gt;&lt;/pre&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1065.38" y="-1006.25" width="560" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-177" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1720.38" y="-1305" as="sourcePoint" />
+            <mxPoint x="1520.38" y="-1305" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-180" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Git Fetch&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_6Ugzg3BD1Cbug45hPQd-177" vertex="1" connectable="0">
+          <mxGeometry x="-0.02" relative="1" as="geometry">
+            <mxPoint x="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-181" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1720.38" y="-1385" as="sourcePoint" />
+            <mxPoint x="1520.38" y="-1385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-183" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1520.38" y="-1385" as="sourcePoint" />
+            <mxPoint x="1120.38" y="-1385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-184" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Git Pull&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_6Ugzg3BD1Cbug45hPQd-183" vertex="1" connectable="0">
+          <mxGeometry x="-0.4186" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-185" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1520.38" y="-1335" as="sourcePoint" />
+            <mxPoint x="1720.38" y="-1335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-186" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Git Push&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_6Ugzg3BD1Cbug45hPQd-185" vertex="1" connectable="0">
+          <mxGeometry x="-0.0486" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-187" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1720.38" y="-1425" as="sourcePoint" />
+            <mxPoint x="1520.38" y="-1425" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-188" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1520.38" y="-1425" as="sourcePoint" />
+            <mxPoint x="1320.38" y="-1425" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-190" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Git Clone&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_6Ugzg3BD1Cbug45hPQd-188" vertex="1" connectable="0">
+          <mxGeometry x="0.01" y="1" relative="1" as="geometry">
+            <mxPoint x="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-189" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1320.38" y="-1425" as="sourcePoint" />
+            <mxPoint x="1120.38" y="-1425" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-191" value="&lt;h2 style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Git Push&lt;/font&gt;&lt;/h2&gt;&lt;pre style=&quot;&quot;&gt;&lt;code&gt;git push                    &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Pushes local branch to remote (default)&lt;br&gt;git push origin &amp;lt;branch&amp;gt;    &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Pushes specific branch to origin&lt;br&gt;git push -u origin &amp;lt;branch&amp;gt; &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Pushes branch and sets upstream&lt;br&gt;git push --tags             &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Pushes all local tags to remote&lt;br&gt;git push origin --delete &amp;lt;branch&amp;gt;  &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Deletes remote branch&lt;br&gt;git push origin --delete tag &amp;lt;tag&amp;gt; &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Deletes remote tag&lt;/code&gt;&lt;/pre&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1065.38" y="-432.78" width="600" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-192" value="&lt;h2 style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Git Clone&lt;/font&gt;&lt;/h2&gt;&lt;pre style=&quot;&quot;&gt;&lt;code&gt;git clone &amp;lt;url&amp;gt;             Clones a repository into a new directory&lt;br&gt;git clone &amp;lt;url&amp;gt; &amp;lt;dir&amp;gt;       Clones into specified directory&lt;br&gt;git clone --depth 1 &amp;lt;url&amp;gt;   Shallow clone with history truncated to latest commit&lt;/code&gt;&lt;/pre&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1065.38" y="-1242.5" width="540" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-1" value="/git/" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1530.38" y="-1527.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1520.38" y="-1280" as="sourcePoint" />
+            <mxPoint x="1120.38" y="-1280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Git Checkout&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I2iralB9Y14JaPnRJJGt-2">
+          <mxGeometry x="-0.0083" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1520.38" y="-1260" as="sourcePoint" />
+            <mxPoint x="1120.38" y="-1260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Git Merge&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I2iralB9Y14JaPnRJJGt-5">
+          <mxGeometry x="-0.0083" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-7" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Git Tree Structure&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="-1075" width="255" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-29" value="Blob" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="137.5" y="-730" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-87" value="Hashed File Data" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-29">
+          <mxGeometry y="40" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-67" value="Tree" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="317.5" y="-730" width="160" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-68" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=11;fillColor=none;strokeColor=none;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-67">
+          <mxGeometry y="40" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-69" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-68">
+          <mxGeometry width="160" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-70" value="Filename - File or Directory" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-69">
+          <mxGeometry width="160" height="33" as="geometry">
+            <mxRectangle width="160" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-71" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-68">
+          <mxGeometry y="33" width="160" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-72" value="Type - Blob, Tree, Commit, Tag" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-71">
+          <mxGeometry width="160" height="32" as="geometry">
+            <mxRectangle width="160" height="32" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-73" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-68">
+          <mxGeometry y="65" width="160" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-74" value="Mode - Read, Write, Executable, Link, Directory" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-73">
+          <mxGeometry width="160" height="33" as="geometry">
+            <mxRectangle width="160" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-75" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-68">
+          <mxGeometry y="98" width="160" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-76" value="Hash - Made from previous values&amp;nbsp;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-75">
+          <mxGeometry width="160" height="32" as="geometry">
+            <mxRectangle width="160" height="32" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-77" value="Commit" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="497.5" y="-730" width="160" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-78" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=11;fillColor=none;strokeColor=none;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-77">
+          <mxGeometry y="40" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-79" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-78">
+          <mxGeometry width="160" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-80" value="Tree - File or Directory in Tree form" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-79">
+          <mxGeometry width="160" height="33" as="geometry">
+            <mxRectangle width="160" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-81" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-78">
+          <mxGeometry y="33" width="160" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-82" value="Parent Commit - previous commit(s)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-81">
+          <mxGeometry width="160" height="32" as="geometry">
+            <mxRectangle width="160" height="32" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-83" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-78">
+          <mxGeometry y="65" width="160" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-84" value="Author - The information of the writer" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-83">
+          <mxGeometry width="160" height="33" as="geometry">
+            <mxRectangle width="160" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-85" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-78">
+          <mxGeometry y="98" width="160" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-86" value="Message - Accompanying message&amp;nbsp;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-85">
+          <mxGeometry width="160" height="32" as="geometry">
+            <mxRectangle width="160" height="32" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-88" value="Tag (Annotated)" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="677.5" y="-730" width="160" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-89" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=11;fillColor=none;strokeColor=none;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-88">
+          <mxGeometry y="40" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-90" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-89">
+          <mxGeometry width="160" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-91" value="Object - Git Object associated with it" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-90">
+          <mxGeometry width="160" height="33" as="geometry">
+            <mxRectangle width="160" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-92" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-89">
+          <mxGeometry y="33" width="160" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-93" value="Name - Tag name" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-92">
+          <mxGeometry width="160" height="32" as="geometry">
+            <mxRectangle width="160" height="32" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-94" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-89">
+          <mxGeometry y="65" width="160" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-95" value="Author - Tag Creator" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-94">
+          <mxGeometry width="160" height="33" as="geometry">
+            <mxRectangle width="160" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-96" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-89">
+          <mxGeometry y="98" width="160" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-97" value="Message - Description of associated tag" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-96">
+          <mxGeometry width="160" height="32" as="geometry">
+            <mxRectangle width="160" height="32" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-112" value="Commit 2" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2258.25" y="-735" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-113" value="+Main (Tree)&lt;br&gt;+Commit 1&lt;br&gt;+User1&lt;div&gt;+&quot;ReadMe.md Created&quot;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-112">
+          <mxGeometry y="50" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-114" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-112">
+          <mxGeometry y="120" width="160" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-115" value="Commit 3" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2430.5" y="-735" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-116" value="+Main (Tree)&lt;br&gt;+Commit 2&lt;br&gt;+User1&lt;div&gt;+&quot;Project initilized&quot;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-115">
+          <mxGeometry y="50" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-117" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-115">
+          <mxGeometry y="120" width="160" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-134" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3680.25" y="-441.53" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-135" value="Main" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3690.25" y="-436.53" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="I2iralB9Y14JaPnRJJGt-142" target="I2iralB9Y14JaPnRJJGt-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-142" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3680.25" y="-361.53" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-143" value="Head" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3690.25" y="-356.53" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-148" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Branch&lt;/h1&gt;&lt;p class=&quot;&quot; data-end=&quot;466&quot; data-start=&quot;95&quot;&gt;A &lt;strong data-end=&quot;107&quot; data-start=&quot;97&quot;&gt;branch&lt;/strong&gt; in Git is just a &lt;strong data-end=&quot;154&quot; data-start=&quot;125&quot;&gt;named pointer to a commit&lt;/strong&gt;—it marks the tip of a line of work.&lt;/p&gt;&lt;p class=&quot;&quot; data-end=&quot;466&quot; data-start=&quot;95&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p class=&quot;&quot; data-end=&quot;466&quot; data-start=&quot;95&quot;&gt;&lt;strong style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;203&quot; data-start=&quot;193&quot;&gt;&lt;code data-end=&quot;201&quot; data-start=&quot;195&quot;&gt;main&lt;/code&gt;&lt;/strong&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; is simply the default branch name, usually pointing to the latest stable commit.&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;&quot; data-end=&quot;466&quot; data-start=&quot;95&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;&quot; data-end=&quot;466&quot; data-start=&quot;95&quot;&gt;&lt;strong data-end=&quot;297&quot; data-start=&quot;287&quot;&gt;&lt;code data-end=&quot;295&quot; data-start=&quot;289&quot;&gt;HEAD&lt;/code&gt;&lt;/strong&gt; is a &lt;strong data-end=&quot;322&quot; data-start=&quot;303&quot;&gt;special pointer&lt;/strong&gt; that tells Git &lt;strong data-end=&quot;386&quot; data-start=&quot;338&quot;&gt;which branch (or commit) you’re currently on&lt;/strong&gt;. It typically points to a branch like &lt;code data-end=&quot;431&quot; data-start=&quot;425&quot;&gt;main&lt;/code&gt;, which in turn points to a commit.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;So in Git, you&#39;re not &quot;on a commit&quot;—you&#39;re &lt;/span&gt;&lt;strong style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;526&quot; data-start=&quot;511&quot;&gt;on a branch&lt;/strong&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;, and &lt;/span&gt;&lt;code style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;538&quot; data-start=&quot;532&quot;&gt;HEAD&lt;/code&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; is how Git knows &lt;/span&gt;&lt;strong style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;569&quot; data-start=&quot;556&quot;&gt;which one&lt;/strong&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;.&lt;/span&gt;.&lt;br&gt;&lt;br&gt;When a new Branch is made it simiply represents a pointer that can host commits seperate from main&lt;br&gt;&lt;br&gt;A branch consist of a Name and a target being the commit its pointing too&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1927.25" y="-1485" width="309" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-166" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="3521.25" y="-497.6400000000001" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-171" value="Commit 4" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3811" y="-1608.2" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-172" value="+Main (Tree)&lt;br&gt;+Commit 3&lt;br&gt;+User1&lt;div&gt;+&quot;Feature 1 Completion&quot;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-171">
+          <mxGeometry y="50" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-173" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-171">
+          <mxGeometry y="120" width="160" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-174" value="Commit 5" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3811" y="-1448.2" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-175" value="+Main (Tree)&lt;br&gt;+Commit 3&lt;br&gt;+User2&lt;div&gt;+&quot;Feature 2 Completion&quot;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-174">
+          <mxGeometry y="50" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-176" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-174">
+          <mxGeometry y="120" width="160" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-185" value="Commit 7" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3811" y="-444.30999999999995" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-186" value="+Main (Tree)&lt;br&gt;+Commit 5, Commit 6&lt;br&gt;+User1&lt;div&gt;+&quot;Merge of Feature Branch 1 and Feature Branch 2&quot;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-185">
+          <mxGeometry y="50" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-187" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-185">
+          <mxGeometry y="120" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-188" value="Commit 6" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3881" y="-1048.2" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-189" value="+Main (Tree)&lt;br&gt;+Commit 3&lt;br&gt;+User1&lt;div&gt;+&quot;Feature 3 Completion&quot;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-188">
+          <mxGeometry y="50" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-190" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-188">
+          <mxGeometry y="120" width="160" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-196" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="3522.25" y="-612.01" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-198" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="3680.25" y="-556.53" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-201" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="I2iralB9Y14JaPnRJJGt-196" target="I2iralB9Y14JaPnRJJGt-198">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3692.25" y="-492.6400000000001" as="sourcePoint" />
+            <mxPoint x="3742.25" y="-542.6399999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-202" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.003;exitY=0.481;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="I2iralB9Y14JaPnRJJGt-166" target="I2iralB9Y14JaPnRJJGt-198">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3596.25" y="-454.03" as="sourcePoint" />
+            <mxPoint x="3766.25" y="-514.03" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-203" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3522.25" y="-377.6399999999999" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-204" value="B - 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3534.75" y="-372.6399999999999" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-205" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="I2iralB9Y14JaPnRJJGt-203" target="I2iralB9Y14JaPnRJJGt-166">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3563.5" y="-377.6399999999999" as="sourcePoint" />
+            <mxPoint x="3613.5" y="-427.6400000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-207" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="I2iralB9Y14JaPnRJJGt-134">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3720.25" y="-446.53" as="sourcePoint" />
+            <mxPoint x="3720.25" y="-476.53" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-210" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;The Commit Tree (Version Control Visual)&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;In Git, we move&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;strong style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px;&quot; data-end=&quot;287&quot; data-start=&quot;254&quot;&gt;up and down a tree of commits&lt;/strong&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;, and we use&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;strong style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px;&quot; data-end=&quot;322&quot; data-start=&quot;300&quot;&gt;pointers (aliases)&lt;/strong&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;to navigate and label specific parts of that tree:&lt;/span&gt;&lt;/h1&gt;&lt;ul data-end=&quot;610&quot; data-start=&quot;378&quot;&gt;&lt;li class=&quot;&quot; data-end=&quot;436&quot; data-start=&quot;378&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;436&quot; data-start=&quot;380&quot;&gt;&lt;strong data-end=&quot;390&quot; data-start=&quot;380&quot;&gt;&lt;code data-end=&quot;388&quot; data-start=&quot;382&quot;&gt;HEAD&lt;/code&gt;&lt;/strong&gt;&amp;nbsp;is the pointer to&amp;nbsp;&lt;strong data-end=&quot;436&quot; data-start=&quot;409&quot;&gt;where you are right now&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li class=&quot;&quot; data-end=&quot;495&quot; data-start=&quot;439&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;495&quot; data-start=&quot;441&quot;&gt;&lt;strong data-end=&quot;451&quot; data-start=&quot;441&quot;&gt;&lt;code data-end=&quot;449&quot; data-start=&quot;443&quot;&gt;main&lt;/code&gt;&lt;/strong&gt;&amp;nbsp;is the pointer to the&amp;nbsp;&lt;strong data-end=&quot;495&quot; data-start=&quot;474&quot;&gt;main project line&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li class=&quot;&quot; data-end=&quot;608&quot; data-start=&quot;498&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;608&quot; data-start=&quot;500&quot;&gt;Any&amp;nbsp;&lt;strong data-end=&quot;514&quot; data-start=&quot;504&quot;&gt;branch&lt;/strong&gt;&amp;nbsp;you create is just another&amp;nbsp;&lt;strong data-end=&quot;559&quot; data-start=&quot;542&quot;&gt;named pointer&lt;/strong&gt;, letting you split off into a new line of commits seperate from the main&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p class=&quot;&quot; data-end=&quot;775&quot; data-start=&quot;613&quot;&gt;These branches don’t duplicate anything—they just point to different commits in the same graph. You’re literally navigating a&amp;nbsp;&lt;strong data-end=&quot;774&quot; data-start=&quot;739&quot;&gt;commit tree with movable labels&lt;/strong&gt;.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1927.25" y="-1740" width="650" height="285" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-221" value="Commit 1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2109.5" y="-1000" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-222" value="+Main (Tree)&lt;br&gt;+None&lt;br&gt;+User1&lt;div&gt;+&quot;Initial Commit&quot;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-221">
+          <mxGeometry y="50" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-223" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-221">
+          <mxGeometry y="120" width="160" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-231" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2324.06" y="-854" width="79.44" height="79.44" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-232" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Commit - 1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2324.94" y="-821.78" width="80.25" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-233" value="Commit" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="1927.25" y="-1015" width="160" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-234" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=11;fillColor=none;strokeColor=none;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-233">
+          <mxGeometry y="40" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-235" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-234">
+          <mxGeometry width="160" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-236" value="Tree - File or Directory in Tree form" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-235">
+          <mxGeometry width="160" height="33" as="geometry">
+            <mxRectangle width="160" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-237" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-234">
+          <mxGeometry y="33" width="160" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-238" value="Parent Commit - previous commit(s)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-237">
+          <mxGeometry width="160" height="32" as="geometry">
+            <mxRectangle width="160" height="32" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-239" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-234">
+          <mxGeometry y="65" width="160" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-240" value="Author - The information of the writer" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-239">
+          <mxGeometry width="160" height="33" as="geometry">
+            <mxRectangle width="160" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-241" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-234">
+          <mxGeometry y="98" width="160" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-242" value="Message - Accompanying message&amp;nbsp;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" vertex="1" parent="I2iralB9Y14JaPnRJJGt-241">
+          <mxGeometry width="160" height="32" as="geometry">
+            <mxRectangle width="160" height="32" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-243" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2323.7799999999997" y="-935" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-244" value="Main" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2333.7799999999997" y="-930" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-245" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I2iralB9Y14JaPnRJJGt-246" target="I2iralB9Y14JaPnRJJGt-243">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2363.6765517241374" y="-940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-246" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2323.7799999999997" y="-1015" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-247" value="Head" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2333.78" y="-1010" width="59.72" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-248" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.489;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="I2iralB9Y14JaPnRJJGt-243">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2452.22" y="-845" as="sourcePoint" />
+            <mxPoint x="2362.5" y="-855" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-250" value="This is what a Git project looks like after its first commit&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2428.25" y="-965" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-251" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="-687.5" width="79.44" height="79.44" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-252" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Commit - 1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1920.88" y="-655.28" width="80.25" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-253" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="-687.5" width="79.44" height="79.44" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-254" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Commit - 2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2040.88" y="-655.28" width="80.25" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-255" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="-687.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-256" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Commit - 3&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2162" y="-655.28" width="80.25" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-258" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.983;exitY=0.457;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="I2iralB9Y14JaPnRJJGt-252">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2040" y="-647.5" as="sourcePoint" />
+            <mxPoint x="2040" y="-647.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-259" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2119.44" y="-647.8699999999999" as="sourcePoint" />
+            <mxPoint x="2159.44" y="-647.8699999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-265" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I2iralB9Y14JaPnRJJGt-260" target="I2iralB9Y14JaPnRJJGt-255">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-260" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2159.4999999999995" y="-762.5" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-261" value="Main" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2169.4999999999995" y="-757.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-262" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I2iralB9Y14JaPnRJJGt-263" target="I2iralB9Y14JaPnRJJGt-260">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2199.396551724137" y="-767.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-263" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2159.4999999999995" y="-842.5" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-264" value="Head" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2169.4999999999995" y="-837.5" width="57.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-266" value="After Basic Set up the tree would look somthing like this,&amp;nbsp;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;note: we can move between the commits using the &quot;Head&quot; as a medium. This is called &quot;Detached Head&quot;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1951.75" y="-792.5" width="194" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-268" value="Option 1: Make a new branch&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="-491.53" width="184.25" height="72.5" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-269" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1928.25" y="-383.75" width="79.44" height="79.44" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-270" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Commit - 1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1929.13" y="-351.53" width="80.25" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-271" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2048.25" y="-383.75" width="79.44" height="79.44" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-272" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Commit - 2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2049.13" y="-351.53" width="80.25" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-273" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2168.25" y="-383.75" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-274" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Commit - 3&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2170.25" y="-351.53" width="80.25" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-275" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.983;exitY=0.457;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="I2iralB9Y14JaPnRJJGt-270">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2048.25" y="-343.75" as="sourcePoint" />
+            <mxPoint x="2048.25" y="-343.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-276" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2127.69" y="-344.1199999999999" as="sourcePoint" />
+            <mxPoint x="2167.69" y="-344.1199999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-277" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I2iralB9Y14JaPnRJJGt-278" target="I2iralB9Y14JaPnRJJGt-273">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-278" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2167.7499999999995" y="-458.75" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-279" value="Main" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2177.7499999999995" y="-453.75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-281" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2047.1899999999996" y="-178.75" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-282" value="Head" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2057.1899999999996" y="-173.75" width="57.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-284" value="We make a Branch, Move to the Branch, then move to the desired commit&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1934" y="-454.03" width="164.25" height="55.28" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-285" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2047.69" y="-258.75" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-286" value="B - 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2057.69" y="-253.75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-288" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="I2iralB9Y14JaPnRJJGt-285">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2119.94" y="-263.75" as="sourcePoint" />
+            <mxPoint x="2087.69" y="-303.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-289" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="I2iralB9Y14JaPnRJJGt-281" target="I2iralB9Y14JaPnRJJGt-285">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2146.69" y="-178.75" as="sourcePoint" />
+            <mxPoint x="2196.69" y="-228.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-290" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2281" y="-379.03" width="79.44" height="79.44" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-291" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Commit - 1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2281.88" y="-346.80999999999995" width="80.25" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-292" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2401" y="-379.03" width="79.44" height="79.44" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-293" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Commit - 2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2401.88" y="-346.80999999999995" width="80.25" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-294" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2521" y="-379.03" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-295" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Commit - 3&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2523" y="-346.80999999999995" width="80.25" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-296" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.983;exitY=0.457;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="I2iralB9Y14JaPnRJJGt-291">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2401" y="-339.03" as="sourcePoint" />
+            <mxPoint x="2401" y="-339.03" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-297" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2480.44" y="-339.4000000000001" as="sourcePoint" />
+            <mxPoint x="2520.44" y="-339.4000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-298" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I2iralB9Y14JaPnRJJGt-299" target="I2iralB9Y14JaPnRJJGt-294">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-299" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2520.4999999999995" y="-454.03" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-300" value="Main" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2530.4999999999995" y="-449.03" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-301" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2402.1299999999997" y="-258.75" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-302" value="Head" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2412.1299999999997" y="-253.75" width="57.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-306" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="I2iralB9Y14JaPnRJJGt-301">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2501.63" y="-258.75" as="sourcePoint" />
+            <mxPoint x="2442.6300000000006" y="-298.7499999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-307" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Detaching&lt;font style=&quot;font-size: 14px;&quot;&gt;(Detached Head) &lt;/font&gt;Vs Branching&amp;nbsp;&lt;/h1&gt;&lt;p&gt;So lets say we want to go back to commit 2, there are 2 main ways we can go about this&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="-585" width="427.87" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-308" value="&lt;div style=&quot;forced-color-adjust: none; box-shadow: none !important;&quot;&gt;Option 2: Going their directly&lt;br&gt;&lt;br&gt;The Head can point to either branches like b-1 and main or directly to commits&amp;nbsp;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2318.5" y="-478.75" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-309" value="The key difference between working on a branch and in a detached HEAD isn’t how you start—it’s what happens after you commit.&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;On a branch, new commits are tracked and easy to return to; the branch name always points to your latest work.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;In a detached HEAD, commits still happen, but they’re not attached to any branch. They exist, but without a label, making them easy to lose and vulnerable to deletion if not saved. Unless you create a branch to anchor them, those commits float in Git’s history, real but untracked.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2150.25" y="-208.75" width="404.28" height="153.75" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-310" value="&lt;h2 style=&quot;text-align: left;&quot;&gt;Git Init &amp;amp; Config&lt;/h2&gt;&lt;pre style=&quot;text-align: left;&quot;&gt;&lt;code&gt;git init                    &#x9;&#x9;&#x9;Initializes a new Git repository in the current directory&lt;br&gt;git init --bare              &#x9;&#x9;&#x9;Creates a bare repository (no working directory)&lt;br&gt;git config --global user.name &quot;Name&quot;    &#x9;Sets the global Git username&lt;br&gt;git config --global user.email &quot;email&quot;  &#x9;Sets the global Git email&lt;br&gt;git config --list            &#x9;&#x9;&#x9;Lists current Git configuration&lt;br&gt;git config &amp;lt;key&amp;gt; &amp;lt;value&amp;gt;     &#x9;&#x9;&#x9;Sets a config value (local or global)&lt;br&gt;git config --global core.editor &quot;editor&quot;     &#x9;Sets your preferred commit editor&lt;/code&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2740" y="-1652.9" width="696.75" height="159.19" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-312" value="&lt;h2 style=&quot;text-align: left;&quot;&gt;Git Tag&lt;/h2&gt;&lt;pre style=&quot;text-align: left;&quot;&gt;&lt;code&gt;git tag                     Lists all tags&lt;br&gt;git tag &amp;lt;name&amp;gt;              Creates a lightweight tag&lt;br&gt;git tag -a &amp;lt;name&amp;gt; -m &quot;msg&quot;  Creates an annotated tag with message&lt;br&gt;git tag -d &amp;lt;name&amp;gt;           Deletes a local tag&lt;br&gt;git push origin &amp;lt;tag&amp;gt;       Pushes a specific tag to remote&lt;br&gt;git push origin --tags      Pushes all tags to remote&lt;br&gt;git show &amp;lt;tag&amp;gt;              Shows tag details and target commit&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;div&gt;&lt;code&gt;&lt;br&gt;&lt;/code&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-550" width="455" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-313" value="&lt;h2 style=&quot;text-align: left;&quot;&gt;Git Log&lt;/h2&gt;&lt;pre style=&quot;text-align: left;&quot;&gt;&lt;code&gt;git log                     Shows full commit history&lt;br&gt;git log --oneline           Condensed commit history (one commit per line)&lt;br&gt;git log --graph             Visual DAG of branch history&lt;br&gt;git log -p                  Shows patch (diff) with each commit&lt;br&gt;git log --stat              Shows file change summary per commit&lt;br&gt;git log --author=&quot;name&quot;     Filters commits by author&lt;br&gt;git log &amp;lt;file&amp;gt;              Shows history of a specific file&lt;/code&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-390" width="520" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-314" value="&lt;h2 style=&quot;text-align: left;&quot;&gt;Git Revert&lt;/h2&gt;&lt;pre style=&quot;text-align: left;&quot;&gt;&lt;code&gt;git revert &amp;lt;commit&amp;gt;         &#x9;&#x9;Creates a new commit that undoes the given commit&lt;br&gt;git revert --no-commit &amp;lt;commit&amp;gt;  &#x9;Prepares revert but doesn’t commit immediately&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;div&gt;&lt;code&gt;&lt;br&gt;&lt;/code&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="102.5" y="-230" width="595" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-315" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3521.25" y="-1506.95" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-316" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Commit - 3&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3521" y="-1474.45" width="80.25" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-317" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3641.25" y="-1566.95" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-318" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Commit - 4&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3641" y="-1534.45" width="80.25" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-319" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3641.25" y="-1446.95" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-320" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Commit - 5&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3641" y="-1414.45" width="80.25" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-321" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="I2iralB9Y14JaPnRJJGt-316" target="I2iralB9Y14JaPnRJJGt-319">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3571.25" y="-1364.45" as="sourcePoint" />
+            <mxPoint x="3621.25" y="-1414.45" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-322" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="I2iralB9Y14JaPnRJJGt-317">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3602.5" y="-1469.45" as="sourcePoint" />
+            <mxPoint x="3652.5" y="-1519.45" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-323" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Multiple Users and Branches&lt;/h1&gt;&lt;p&gt;One of Git’s main advantages is enabling multiple people to work on different versions of a project simultaneously. Branches let developers fork, experiment, and later merge changes back into the main codebase, making collaboration flexible and controlled.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3520" y="-1733.2" width="640" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-324" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4001" y="-1588.2" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-325" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4001" y="-1427.2" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-326" value="User1(You)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3991" y="-1528.2" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-327" value="User2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3991" y="-1367.2" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-328" value="Git lets you work along side another developer making commits in parallel without interacting&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3991" y="-1500.57" width="179" height="67.25" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-329" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3520.25" y="-1210.7" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-330" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Commit - 3&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3520" y="-1178.2" width="80.25" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-331" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3640.25" y="-1270.7" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-332" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Commit - 4&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3640" y="-1238.2" width="80.25" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-333" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3640.25" y="-1150.7" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-334" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Commit - 5&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3640" y="-1118.2" width="80.25" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-335" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="I2iralB9Y14JaPnRJJGt-330" target="I2iralB9Y14JaPnRJJGt-333">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3570.25" y="-1068.2" as="sourcePoint" />
+            <mxPoint x="3620.25" y="-1118.2" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-336" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="I2iralB9Y14JaPnRJJGt-331">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3601.5" y="-1173.2" as="sourcePoint" />
+            <mxPoint x="3651.5" y="-1223.2" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-337" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3760.25" y="-1273.2" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-338" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Commit - 6&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3760" y="-1240.7" width="80.25" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-339" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.998;exitY=0.332;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="I2iralB9Y14JaPnRJJGt-332" target="I2iralB9Y14JaPnRJJGt-338">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3710.25" y="-1185.7" as="sourcePoint" />
+            <mxPoint x="3760.25" y="-1235.7" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-340" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3760" y="-1163.2" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-341" value="B-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3770" y="-1158.2" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-343" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3760" y="-1080.7" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-344" value="Head" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3770" y="-1075.7" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-345" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="I2iralB9Y14JaPnRJJGt-340" target="I2iralB9Y14JaPnRJJGt-337">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3870.25" y="-1163.2" as="sourcePoint" />
+            <mxPoint x="3920.25" y="-1213.2" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-346" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="I2iralB9Y14JaPnRJJGt-340">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3800.25" y="-1080.7" as="sourcePoint" />
+            <mxPoint x="3850.25" y="-1130.7" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-347" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3640" y="-1041.26" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-348" value="B-2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3650" y="-1036.26" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-350" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.502;entryY=0.973;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3680.05" y="-1040.7" as="sourcePoint" />
+            <mxPoint x="3680.05" y="-1070.7" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-351" value="This setup allows multiple users to work at their own pace, each on separate branches. Meanwhile the main branch stays behind, untouched and stable allowing for experimentation with fall back." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3881" y="-1286.45" width="240" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-352" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3521.25" y="-1291.95" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-353" value="Main" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3531.25" y="-1286.95" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-354" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I2iralB9Y14JaPnRJJGt-352">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3591" y="-1221.95" as="sourcePoint" />
+            <mxPoint x="3561.2500000000005" y="-1213.2" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-355" value="Here there are 3 branches active.&amp;nbsp;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;The main branch on commit 3&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Branch B-2 being used by User 2 on commit 5&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Branch B-1 being used by you on commit 6&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;This means there are slight differnces across the 3 commits.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3881" y="-1191.95" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-356" value="&lt;h2 style=&quot;text-align: left;&quot;&gt;Git Branch&lt;/h2&gt;&lt;pre style=&quot;text-align: left;&quot;&gt;&lt;code&gt;git branch                  Lists all local branches&lt;br&gt;git branch &amp;lt;name&amp;gt;           Creates a new branch&lt;br&gt;git branch -d &amp;lt;name&amp;gt;        Deletes a branch (safe; only if merged)&lt;br&gt;git branch -D &amp;lt;name&amp;gt;        Force deletes a branch&lt;br&gt;git branch -m &amp;lt;old&amp;gt; &amp;lt;new&amp;gt;   Renames a branch&lt;br&gt;git branch -a               Lists all local and remote branches&lt;/code&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2738.5" y="-1501.1000000000001" width="440" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-357" value="&lt;h2 style=&quot;text-align: left;&quot;&gt;Git Checkout / Switch / Restore&lt;/h2&gt;&lt;pre style=&quot;text-align: left;&quot;&gt;&lt;code&gt;git checkout &amp;lt;branch&amp;gt;       Switches to another branch&lt;br&gt;git checkout &amp;lt;commit&amp;gt;       Checks out a commit (detached HEAD)&lt;br&gt;git checkout -b &amp;lt;branch&amp;gt;    Creates and switches to a new branch&lt;br&gt;git switch &amp;lt;branch&amp;gt;         (Modern) Switches branches&lt;br&gt;git switch -c &amp;lt;branch&amp;gt;      (Modern) Creates and switches to a new branch&lt;br&gt;git restore &amp;lt;file&amp;gt;          Restores file from index (unstaged reset)&lt;br&gt;git restore --staged &amp;lt;file&amp;gt; Removes file from staging area (like reset)&lt;/code&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2738.5" y="-1351.1000000000001" width="481" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-358" value="&lt;h2 style=&quot;text-align: left;&quot;&gt;Git Status&lt;/h2&gt;&lt;pre style=&quot;text-align: left;&quot;&gt;&lt;code&gt;git status                  Shows the status of working directory and staging area&lt;br&gt;git status -s               Short format status output (one-line per file)&lt;br&gt;git status --ignored        Shows ignored files too&lt;/code&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2737.5" y="-1187.5000000000002" width="541" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-359" value="&lt;h2 style=&quot;text-align: left;&quot;&gt;Git Diff&lt;/h2&gt;&lt;pre style=&quot;text-align: left;&quot;&gt;&lt;code&gt;git diff                    &#x9;Shows changes between working directory and index (unstaged changes)&lt;br&gt;git diff --cached           &#x9;Shows changes between index and last commit (staged changes)&lt;br&gt;git diff HEAD               &#x9;Shows changes between working dir and last commit&lt;br&gt;git diff &amp;lt;commit1&amp;gt; &amp;lt;commit2&amp;gt;  &#x9;Shows difference between two commits&lt;br&gt;git diff --name-only        &#x9;Shows only filenames of changed files&lt;br&gt;git diff --stat             &#x9;Shows summary of changes (lines added/removed)&lt;/code&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2738.5" y="-1085.0000000000002" width="660" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-361" value="&lt;h2&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Git Reset&lt;/font&gt;&lt;/h2&gt;&lt;pre&gt;&lt;code&gt;git reset &amp;lt;file&amp;gt;            Unstages a file (keeps working directory change)&lt;br&gt;git reset --soft HEAD^      Moves HEAD back one commit, keeps index and working dir&lt;br&gt;git reset --mixed HEAD^     Moves HEAD back, resets index (default), keeps working dir&lt;br&gt;git reset --hard HEAD^      Moves HEAD back, resets index and working dir&lt;br&gt;git reset &amp;lt;commit&amp;gt;          Resets HEAD and index to specific commit&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;h2&gt;&lt;br style=&quot;&quot;&gt;&lt;/h2&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1065.38" y="-248.75" width="615" height="103.75" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-362" value="&lt;h2 style=&quot;text-align: left;&quot;&gt;Git Merge&lt;/h2&gt;&lt;pre style=&quot;text-align: left;&quot;&gt;&lt;code&gt;git merge &amp;lt;branch&amp;gt;          Merges given branch into current branch&lt;br&gt;git merge --no-ff           Forces a merge commit even if fast-forward is possible&lt;br&gt;git merge --abort           Aborts a conflicted merge&lt;/code&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2738" y="-941.0000000000001" width="540" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-363" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1320.38" y="-1306.25" as="sourcePoint" />
+            <mxPoint x="1120.38" y="-1306.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-366" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Git Reset&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I2iralB9Y14JaPnRJJGt-363">
+          <mxGeometry x="0.04" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-370" value="Commit - 6" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3527.25" y="-586.3899999999999" width="70" height="28.75" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-371" value="Commit - 5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3526.25" y="-471.3899999999999" width="70" height="28.75" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-372" value="Commit - 7" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3685.25" y="-530.9099999999999" width="70" height="28.75" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-373" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3680.25" y="-644.31" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-374" value="B - 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3690.25" y="-639.31" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-375" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="I2iralB9Y14JaPnRJJGt-373" target="I2iralB9Y14JaPnRJJGt-198">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3720.25" y="-602.78" as="sourcePoint" />
+            <mxPoint x="3719.96" y="-600.1500000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-376" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Merging and Rebasing&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 12px; font-weight: 400;&quot;&gt;Alright—time to get everyone back on the same page. There are two main ways to do this in Git: merging and rebasing. Merging is the default and more standardized method—it preserves full history and is easy to follow. Rebasing, on the other hand, rewrites history to make it cleaner and linear.&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;In this example, we’ll start by merging two feature branches together, while leaving main behind. Then we’ll rebase the result onto main to show exactly how the two processes work and what makes them different. Note: This isn&#39;t how this is typically done, usually you would individually merge each branch to main individually giving 2 merges instaed of rebsaing it but for the sake of comprehenshion we are gonna do it differently&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3521.25" y="-928.2" width="638.75" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-378" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Merging&amp;nbsp;&lt;/h1&gt;&lt;p&gt;Merging compares two branches and combines their changes. If there are no conflicts, Git merges automatically.&amp;nbsp;&lt;/p&gt;&lt;p&gt;If there are conflicts—where both branches changed the same code—you’ll need to resolve them manually before completing the merge.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3812" y="-653.3399999999999" width="179" height="195.14" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-379" value="&lt;h2 style=&quot;text-align: left;&quot;&gt;Git Rebase&lt;/h2&gt;&lt;pre style=&quot;text-align: left;&quot;&gt;&lt;code&gt;git rebase &amp;lt;base&amp;gt;           Reapplies commits on top of another base branch&lt;br&gt;git rebase -i HEAD~n        Interactive rebase for editing/reordering commits&lt;br&gt;git rebase --continue       Continues a paused rebase&lt;br&gt;git rebase --abort          Cancels the rebase and resets state&lt;/code&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2737.5" y="-835" width="510" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-381" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Rebasing&lt;/h1&gt;&lt;p&gt;While merging happens all at once allowing it to be instant and smooth for the most part rebasing looks at all the commits made between the 2 given points and recreates them one by one until they are on the same page. lets visualise this&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3511" y="-285.0799999999999" width="463.75" height="109.59" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-382" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2756.5" y="-533.6800000000001" width="79.44" height="79.44" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-383" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Commit - 1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2757.38" y="-501.46000000000004" width="80.25" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-384" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2876.5" y="-533.6800000000001" width="79.44" height="79.44" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-385" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Commit - 2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2877.38" y="-501.46000000000004" width="80.25" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-386" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2996.75" y="-533.6800000000001" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-387" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Commit - 3&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2998.5" y="-501.46000000000004" width="80.25" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-388" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.983;exitY=0.457;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="I2iralB9Y14JaPnRJJGt-383">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2876.5" y="-493.68000000000006" as="sourcePoint" />
+            <mxPoint x="2876.5" y="-493.68000000000006" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-389" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2955.94" y="-494.0500000000002" as="sourcePoint" />
+            <mxPoint x="2995.94" y="-494.0500000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-392" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3115.75" y="-594.31" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-393" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Commit - 4&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3115.5" y="-561.81" width="80.25" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-394" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3115.75" y="-474.30999999999995" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-395" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Commit - 5&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3115.5" y="-441.80999999999995" width="80.25" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-396" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.995;exitY=0.539;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="I2iralB9Y14JaPnRJJGt-386" target="I2iralB9Y14JaPnRJJGt-394">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3075.75" y="-494.30999999999995" as="sourcePoint" />
+            <mxPoint x="3095.75" y="-441.80999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-397" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="I2iralB9Y14JaPnRJJGt-392" source="I2iralB9Y14JaPnRJJGt-386">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3095.5" y="-493.55999999999995" as="sourcePoint" />
+            <mxPoint x="3127" y="-546.81" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-398" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3235.75" y="-596.81" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-399" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Commit - 6&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3235.5" y="-564.31" width="80.25" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-400" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.998;exitY=0.332;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="I2iralB9Y14JaPnRJJGt-393" target="I2iralB9Y14JaPnRJJGt-399">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3185.75" y="-509.30999999999995" as="sourcePoint" />
+            <mxPoint x="3235.75" y="-559.31" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-401" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3356.75" y="-426.80999999999995" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-402" value="B-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3366.75" y="-421.80999999999995" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-403" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3356.75" y="-344.30999999999995" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-404" value="Head" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3366.75" y="-339.30999999999995" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-406" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="I2iralB9Y14JaPnRJJGt-401">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3397" y="-344.30999999999995" as="sourcePoint" />
+            <mxPoint x="3447" y="-394.30999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-407" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3117.5" y="-364.30999999999995" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-408" value="B-2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3127.5" y="-359.30999999999995" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-409" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.502;entryY=0.973;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3155.55" y="-364.30999999999995" as="sourcePoint" />
+            <mxPoint x="3155.55" y="-394.30999999999995" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-410" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2996.75" y="-615.56" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-411" value="Main" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3006.75" y="-610.56" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-412" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I2iralB9Y14JaPnRJJGt-410">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3066.5" y="-545.56" as="sourcePoint" />
+            <mxPoint x="3036.7500000000005" y="-536.81" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-413" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3356.75" y="-534.24" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-414" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Commit - 7&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3356.5" y="-501.74" width="80.25" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-415" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="I2iralB9Y14JaPnRJJGt-413">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3396.5" y="-426.80999999999995" as="sourcePoint" />
+            <mxPoint x="3446.5" y="-476.80999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-416" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="I2iralB9Y14JaPnRJJGt-414">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3195.75" y="-436.46000000000004" as="sourcePoint" />
+            <mxPoint x="3245.75" y="-486.46000000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-417" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="I2iralB9Y14JaPnRJJGt-414">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3316.75" y="-558.06" as="sourcePoint" />
+            <mxPoint x="3366.75" y="-608.06" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-418" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3510" y="-151.04999999999995" width="79.44" height="79.44" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-419" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Commit - 1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3510.88" y="-118.82999999999993" width="80.25" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-420" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3630" y="-151.04999999999995" width="79.44" height="79.44" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-421" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Commit - 2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3630.88" y="-118.82999999999993" width="80.25" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-422" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3750.25" y="-151.04999999999995" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-423" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Commit - 3&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3752" y="-118.82999999999993" width="80.25" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-424" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.983;exitY=0.457;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="I2iralB9Y14JaPnRJJGt-419">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3630" y="-111.04999999999995" as="sourcePoint" />
+            <mxPoint x="3630" y="-111.04999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-425" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3709.44" y="-111.42000000000007" as="sourcePoint" />
+            <mxPoint x="3749.44" y="-111.42000000000007" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-426" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4108.75" y="-235.1199999999999" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-427" value="Main" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4118.75" y="-230.1199999999999" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-429" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3868.75" y="-151.6099999999999" width="79.44" height="79.44" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-430" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Commit - 8&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3869.63" y="-119.38999999999987" width="80.25" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-431" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3988.75" y="-151.6099999999999" width="79.44" height="79.44" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-432" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Commit - 9&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3989.63" y="-119.38999999999987" width="80.25" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-433" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4109" y="-151.6099999999999" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-434" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Commit - 10&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4110.75" y="-119.38999999999987" width="80.25" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-435" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.983;exitY=0.457;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="I2iralB9Y14JaPnRJJGt-430">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3988.75" y="-111.6099999999999" as="sourcePoint" />
+            <mxPoint x="3988.75" y="-111.6099999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-436" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4068.19" y="-111.98000000000002" as="sourcePoint" />
+            <mxPoint x="4108.1900000000005" y="-111.98000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-437" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.472;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.999;exitY=0.466;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="I2iralB9Y14JaPnRJJGt-422" target="I2iralB9Y14JaPnRJJGt-429">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3827.75" y="-109.78999999999996" as="sourcePoint" />
+            <mxPoint x="3867.75" y="-113.86999999999989" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-438" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Commit 4&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3878.47" y="-119.38999999999987" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-439" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Commit 5&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3998.47" y="-118.82999999999993" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-440" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Commit 6&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4119" y="-118.82999999999993" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-441" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.483;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.485;exitY=0.993;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="I2iralB9Y14JaPnRJJGt-426" target="I2iralB9Y14JaPnRJJGt-433">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4147.75" y="-194.39999999999986" as="sourcePoint" />
+            <mxPoint x="4147.05" y="-151.05000000000018" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-442" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Pre-Rebase&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2797.63" y="-593.8900000000001" width="160" height="32.08" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-443" value="Note: The Branches stay pointed at the old commits&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3222.75" y="-421.80999999999995" width="122.53" height="63.06" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-444" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4108.5" y="-321.53" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-445" value="Head" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4118.5" y="-316.53" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2iralB9Y14JaPnRJJGt-447" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="I2iralB9Y14JaPnRJJGt-426">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4148.42" y="-281.52999999999975" as="sourcePoint" />
+            <mxPoint x="4148.42" y="-236.52999999999975" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

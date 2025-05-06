@@ -1,0 +1,334 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
+  <diagram name="Page-1" id="UNqBjXq3el3nkRgxtfPc">
+    <mxGraphModel dx="1242" dy="2250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-163" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="117.5" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-158" value="" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="117.5" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-154" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="117.5" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Working Directory&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="162.5" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Staging Area&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="267.5" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-7" value="&lt;i&gt;Folder / Your Computer&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="212.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-10" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Github Website&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-12" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="40" as="sourcePoint" />
+            <mxPoint x="600" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-14" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Local&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="50" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-15" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Remote&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="645" y="45" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="100" as="sourcePoint" />
+            <mxPoint x="800" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="390" as="sourcePoint" />
+            <mxPoint x="300" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-19" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Git Add&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_6Ugzg3BD1Cbug45hPQd-18">
+          <mxGeometry x="-0.08" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-24" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Git Add&lt;/h1&gt;&lt;table style=&quot;text-wrap-mode: nowrap;&quot; class=&quot;w-fit min-w-(--thread-content-width)&quot; data-end=&quot;1955&quot; data-start=&quot;1054&quot;&gt;&lt;tbody data-end=&quot;1955&quot; data-start=&quot;1256&quot;&gt;&lt;tr data-end=&quot;1355&quot; data-start=&quot;1256&quot;&gt;&lt;td data-col-size=&quot;sm&quot; data-end=&quot;1285&quot; data-start=&quot;1256&quot;&gt;&lt;code data-end=&quot;1269&quot; data-start=&quot;1258&quot;&gt;git add .&lt;/code&gt;&lt;/td&gt;&lt;td data-col-size=&quot;md&quot; data-end=&quot;1355&quot; data-start=&quot;1285&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Stages all changes in current dir and subdirs&lt;/td&gt;&lt;/tr&gt;&lt;tr data-end=&quot;1455&quot; data-start=&quot;1356&quot;&gt;&lt;td data-col-size=&quot;sm&quot; data-end=&quot;1385&quot; data-start=&quot;1356&quot;&gt;&lt;code data-end=&quot;1370&quot; data-start=&quot;1358&quot;&gt;git add -A&lt;/code&gt;&lt;/td&gt;&lt;td data-col-size=&quot;md&quot; data-end=&quot;1455&quot; data-start=&quot;1385&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Stages all changes (adds, mods, deletions)&lt;/td&gt;&lt;/tr&gt;&lt;tr data-end=&quot;1555&quot; data-start=&quot;1456&quot;&gt;&lt;td data-col-size=&quot;sm&quot; data-end=&quot;1485&quot; data-start=&quot;1456&quot;&gt;&lt;code data-end=&quot;1470&quot; data-start=&quot;1458&quot;&gt;git add -u&lt;/code&gt;&lt;/td&gt;&lt;td data-end=&quot;1555&quot; data-start=&quot;1485&quot; data-col-size=&quot;md&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Stages modifications and deletions, but no untracked files&lt;/td&gt;&lt;/tr&gt;&lt;tr data-end=&quot;1655&quot; data-start=&quot;1556&quot;&gt;&lt;td data-col-size=&quot;sm&quot; data-end=&quot;1585&quot; data-start=&quot;1556&quot;&gt;&lt;code data-end=&quot;1570&quot; data-start=&quot;1558&quot;&gt;git add -p&lt;/code&gt;&lt;/td&gt;&lt;td data-end=&quot;1655&quot; data-start=&quot;1585&quot; data-col-size=&quot;md&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Interactive patch mode: stage parts of files line-by-line&lt;/td&gt;&lt;/tr&gt;&lt;tr data-end=&quot;1755&quot; data-start=&quot;1656&quot;&gt;&lt;td data-col-size=&quot;sm&quot; data-end=&quot;1685&quot; data-start=&quot;1656&quot;&gt;&lt;code data-end=&quot;1683&quot; data-start=&quot;1658&quot;&gt;git add --intent-to-add&lt;/code&gt;&lt;/td&gt;&lt;td data-end=&quot;1755&quot; data-start=&quot;1685&quot; data-col-size=&quot;md&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Adds a file without staging content (for placeholder commits)&lt;/td&gt;&lt;/tr&gt;&lt;tr data-end=&quot;1855&quot; data-start=&quot;1756&quot;&gt;&lt;td data-col-size=&quot;sm&quot; data-end=&quot;1785&quot; data-start=&quot;1756&quot;&gt;&lt;code data-end=&quot;1781&quot; data-start=&quot;1758&quot;&gt;git add --interactive&lt;/code&gt;&lt;/td&gt;&lt;td data-col-size=&quot;md&quot; data-end=&quot;1855&quot; data-start=&quot;1785&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Full menu-based staging interface in the terminal&lt;/td&gt;&lt;/tr&gt;&lt;tr data-end=&quot;1955&quot; data-start=&quot;1856&quot;&gt;&lt;td data-col-size=&quot;sm&quot; data-end=&quot;1885&quot; data-start=&quot;1856&quot;&gt;&lt;code data-end=&quot;1870&quot; data-start=&quot;1858&quot;&gt;git add -N&lt;/code&gt;&lt;/td&gt;&lt;td data-end=&quot;1955&quot; data-start=&quot;1885&quot; data-col-size=&quot;md&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Mark file as &quot;intent to add&quot; without content (similar to&amp;nbsp;&lt;code data-end=&quot;1948&quot; data-start=&quot;1944&quot;&gt;-i&lt;/code&gt;)&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5" y="680" width="530" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-27" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Git Basic&lt;/h1&gt;&lt;p&gt;When git is initilized a hidden folder called &lt;i&gt;.git&lt;/i&gt; is created. This folder becomes your &lt;b style=&quot;font-style: italic;&quot;&gt;Local Repository(&lt;/b&gt;The place where your files are storied&lt;b style=&quot;font-style: italic;&quot;&gt;)&lt;/b&gt;. The place where the &lt;i&gt;.git&lt;/i&gt; folder is located is the &lt;b&gt;&lt;i&gt;Working Directory.&amp;nbsp;&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&amp;nbsp; &amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-1090" width="800" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-64" value="This represents the data within files. This is, in the most literal form, the exact contents of a file. It is hashed and stored as raw data. Whenever a change is made to a file, a new blob representing the new data is made. Git checks to see if a Blob already exists with that content and, if not, stores it in the .git/objects/ folder." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-840" width="420" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-66" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;i style=&quot;&quot;&gt;Tree&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-870" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-69" value="This represents a file instance or a directory.&amp;nbsp;A tree doesn’t store the actual data itself—it maps file paths to blobs or other trees. Trees are recursive, meaning they can point to other trees to represent nested directory structures. It&#39;s made up of:" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-835" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-73" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=11;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-780" width="400" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-74" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="_6Ugzg3BD1Cbug45hPQd-73">
+          <mxGeometry width="400" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-75" value="&lt;strong data-end=&quot;745&quot; data-start=&quot;737&quot;&gt;Mode&lt;/strong&gt;: Unix-style permissions (read/write, executable, link, directory)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" vertex="1" parent="_6Ugzg3BD1Cbug45hPQd-74">
+          <mxGeometry width="400" height="36" as="geometry">
+            <mxRectangle width="400" height="36" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-76" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="_6Ugzg3BD1Cbug45hPQd-73">
+          <mxGeometry y="36" width="400" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-77" value="&lt;strong data-end=&quot;824&quot; data-start=&quot;816&quot;&gt;Type&lt;/strong&gt;: One of the 4 main Git object types (Blob, Tree, Commit, Tag)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" vertex="1" parent="_6Ugzg3BD1Cbug45hPQd-76">
+          <mxGeometry width="400" height="24" as="geometry">
+            <mxRectangle width="400" height="24" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-78" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="_6Ugzg3BD1Cbug45hPQd-73">
+          <mxGeometry y="60" width="400" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-79" value="&lt;strong data-end=&quot;899&quot; data-start=&quot;891&quot;&gt;Hash&lt;/strong&gt;: A value calculated after all the values are set and acts as the name or main identifier for the tree" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" vertex="1" parent="_6Ugzg3BD1Cbug45hPQd-78">
+          <mxGeometry width="400" height="37" as="geometry">
+            <mxRectangle width="400" height="37" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-80" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="_6Ugzg3BD1Cbug45hPQd-73">
+          <mxGeometry y="97" width="400" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-81" value="&lt;strong data-end=&quot;1018&quot; data-start=&quot;1006&quot;&gt;Filename&lt;/strong&gt;: The name of the affiliated file or directory" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" vertex="1" parent="_6Ugzg3BD1Cbug45hPQd-80">
+          <mxGeometry width="400" height="34" as="geometry">
+            <mxRectangle width="400" height="34" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-83" value="This points to a tree and represents a captured point in time of your project. A commit is a snapshot of your project at one point in time. The contents are:" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5" y="-720" width="425" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-84" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=11;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-680" width="420" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-85" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="_6Ugzg3BD1Cbug45hPQd-84">
+          <mxGeometry width="420" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-86" value="&lt;strong data-end=&quot;1515&quot; data-start=&quot;1507&quot;&gt;Tree&lt;/strong&gt;: Represents the current root directory and its full structure." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" vertex="1" parent="_6Ugzg3BD1Cbug45hPQd-85">
+          <mxGeometry width="420" height="20" as="geometry">
+            <mxRectangle width="420" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-87" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="_6Ugzg3BD1Cbug45hPQd-84">
+          <mxGeometry y="20" width="420" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-88" value="&lt;strong data-end=&quot;1600&quot; data-start=&quot;1583&quot;&gt;Parent Commit&lt;/strong&gt;: The commit(s) this one is built on top of. If there is none, it&#39;s the first commit. If there are two parents, this commit is the result of a merge." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" vertex="1" parent="_6Ugzg3BD1Cbug45hPQd-87">
+          <mxGeometry width="420" height="34" as="geometry">
+            <mxRectangle width="420" height="34" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-89" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="_6Ugzg3BD1Cbug45hPQd-84">
+          <mxGeometry y="54" width="420" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-90" value="&lt;strong data-end=&quot;1776&quot; data-start=&quot;1754&quot;&gt;Author / Committer&lt;/strong&gt;: The Git information of the person who wrote and/or applied the commit" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" vertex="1" parent="_6Ugzg3BD1Cbug45hPQd-89">
+          <mxGeometry width="420" height="36" as="geometry">
+            <mxRectangle width="420" height="36" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-91" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="_6Ugzg3BD1Cbug45hPQd-84">
+          <mxGeometry y="90" width="420" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-92" value="&lt;strong data-end=&quot;1863&quot; data-start=&quot;1852&quot;&gt;Message&lt;/strong&gt;: A message describing the commit" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" vertex="1" parent="_6Ugzg3BD1Cbug45hPQd-91">
+          <mxGeometry width="420" height="34" as="geometry">
+            <mxRectangle width="420" height="34" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-95" value="A tag is a reference to another Git object—usually a commit—and is used to &lt;strong data-end=&quot;2185&quot; data-start=&quot;2175&quot;&gt;freeze&lt;/strong&gt; that commit in place under a human-readable name. While branches are movable pointers that shift as work continues, &lt;strong data-end=&quot;2321&quot; data-start=&quot;2302&quot;&gt;a tag is locked&lt;/strong&gt; to a single commit and does not change unless explicitly deleted and replaced.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;strong style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;2453&quot; data-start=&quot;2434&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Lightweight Tag&lt;/strong&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;A simple alias pointing to a commit. No message or metadata—just a &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;label.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;strong style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;2548&quot; data-start=&quot;2531&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Annotated Tag&lt;/strong&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;A full Git object containing metadata like the tagger&#39;s name, date, a &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;message, and optional signature.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Annotated tag look like this:&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-460" width="420" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-114" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=11;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry y="-302" width="440" height="172" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-115" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="_6Ugzg3BD1Cbug45hPQd-114">
+          <mxGeometry width="440" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-116" value="&lt;strong data-end=&quot;2771&quot; data-start=&quot;2761&quot;&gt;Object&lt;/strong&gt;: The hash of the commit (or any Git object) it points to" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" vertex="1" parent="_6Ugzg3BD1Cbug45hPQd-115">
+          <mxGeometry width="440" height="36" as="geometry">
+            <mxRectangle width="440" height="36" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-117" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="_6Ugzg3BD1Cbug45hPQd-114">
+          <mxGeometry y="36" width="440" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-118" value="&lt;strong data-end=&quot;2841&quot; data-start=&quot;2833&quot;&gt;Type&lt;/strong&gt;: The type of the referenced object (usually commit)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" vertex="1" parent="_6Ugzg3BD1Cbug45hPQd-117">
+          <mxGeometry width="440" height="33" as="geometry">
+            <mxRectangle width="440" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-119" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="_6Ugzg3BD1Cbug45hPQd-114">
+          <mxGeometry y="69" width="440" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-120" value="&lt;strong data-end=&quot;2910&quot; data-start=&quot;2898&quot;&gt;Tag Name&lt;/strong&gt;: The name of the tag" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" vertex="1" parent="_6Ugzg3BD1Cbug45hPQd-119">
+          <mxGeometry width="440" height="36" as="geometry">
+            <mxRectangle width="440" height="36" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-121" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="_6Ugzg3BD1Cbug45hPQd-114">
+          <mxGeometry y="105" width="440" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-122" value="&lt;strong data-end=&quot;2946&quot; data-start=&quot;2936&quot;&gt;Tagger&lt;/strong&gt;: Git user who created the tag" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" vertex="1" parent="_6Ugzg3BD1Cbug45hPQd-121">
+          <mxGeometry width="440" height="33" as="geometry">
+            <mxRectangle width="440" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-133" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="_6Ugzg3BD1Cbug45hPQd-114">
+          <mxGeometry y="138" width="440" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-134" value="&lt;strong data-end=&quot;2992&quot; data-start=&quot;2981&quot;&gt;Message&lt;/strong&gt;: Description of the tag, often release notes" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" vertex="1" parent="_6Ugzg3BD1Cbug45hPQd-133">
+          <mxGeometry width="440" height="34" as="geometry">
+            <mxRectangle width="440" height="34" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-135" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Git Objects&lt;/h1&gt;&lt;p&gt;Git is built on four main object types: &lt;strong data-end=&quot;49&quot; data-start=&quot;40&quot;&gt;blobs&lt;/strong&gt;, &lt;strong data-end=&quot;60&quot; data-start=&quot;51&quot;&gt;trees&lt;/strong&gt;, &lt;strong data-end=&quot;73&quot; data-start=&quot;62&quot;&gt;commits&lt;/strong&gt;, and &lt;strong data-end=&quot;87&quot; data-start=&quot;79&quot;&gt;tags&lt;/strong&gt;. Blobs store file contents, trees represent directory structures, commits capture project snapshots, and tags mark specific points in history. Together, they form Git’s internal system for tracking and organizing changes.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-990" width="800" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-137" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Blob&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry y="-870" width="440" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-140" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Commit&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=90;height=30;" vertex="1" parent="1">
+          <mxGeometry y="-750" width="440" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-141" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Tree&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry y="-550" width="440" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-143" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Tag&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-870" width="410" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-144" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Git Local&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;fillColor=none;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;strokeColor=none;stackBorder=10;stackSpacing=-12;resizable=1;align=center;points=[];whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="464" y="-610" width="362" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-145" value="Working&lt;br&gt;Directory" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;" vertex="1" parent="_6Ugzg3BD1Cbug45hPQd-144">
+          <mxGeometry x="10" y="33" width="122" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-146" value="Staging&lt;br&gt;Area" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;" vertex="1" parent="_6Ugzg3BD1Cbug45hPQd-144">
+          <mxGeometry x="120" y="33" width="122" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-147" value="Git (Local)&lt;br&gt;Repository" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;" vertex="1" parent="_6Ugzg3BD1Cbug45hPQd-144">
+          <mxGeometry x="230" y="33" width="122" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-149" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Working Directory&lt;/h1&gt;&lt;p&gt;This is the Folder we are working out of, the projects root directory. This is where we interface, create, edit and delete files here. Git can see these files but are&#39;nt tracked until they are added with the add command.&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-500" width="390" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-150" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Staging Area&lt;/h1&gt;&lt;p&gt;This is the virtual storing area. Its physivally represented by the git/index fille. Basically being a file filled with blobs that represent the area before commits. There is no visual for this without plug ins or add ons. When the Git add is ran a blob is created and/or assigned a filename.&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-380" width="390" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-151" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Local Repository&lt;/h1&gt;&lt;p&gt;This is our hidden repository/database. It contains all blobs, trees, commits, tags. After every commit everything git related to out current project is stored via hash.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-260" width="390" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-156" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Local Repository&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-157" value="VSCode" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="35" y="117.5" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-160" value="/git/index/" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="305" y="217.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-165" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="400" as="sourcePoint" />
+            <mxPoint x="494" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-166" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Git Commit&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_6Ugzg3BD1Cbug45hPQd-165">
+          <mxGeometry x="-0.08" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-171" value="&lt;br&gt;&lt;div&gt;&lt;h2 style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Git Commit&lt;/font&gt;&lt;/h2&gt;&lt;pre style=&quot;&quot;&gt;&lt;code&gt;git commit                     &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Creates a new commit from staged changes (opens editor)&lt;br&gt;git commit -m &quot;msg&quot;            &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Commits staged changes with a message inline&lt;br&gt;git commit -a -m &quot;msg&quot;         &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Stages all tracked changes and commits them (skips untracked files)&lt;br&gt;git commit --amend             &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Rewrites the previous commit (message and/or content)&lt;br&gt;git commit --no-edit           &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Used with --amend to keep the previous message&lt;br&gt;git commit --allow-empty       &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Creates a commit with no staged changes (empty snapshot)&lt;br&gt;git commit --allow-empty-message  &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Creates a commit with no commit message&lt;br&gt;git commit -v                  &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Shows staged diff in the commit editor&lt;br&gt;git commit -e                  &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Opens the editor even if -m is provided&lt;br&gt;git commit --author=&quot;Name &amp;lt;email&amp;gt;&quot;  &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Overrides the commit author info&lt;br&gt;git commit --date=&quot;YYYY-MM-DD HH:MM:SS&quot; Sets a custom commit date&lt;br&gt;git commit -S                  &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Signs the commit using your GPG key&lt;br&gt;git commit --signoff           &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Adds a “Signed-off-by” line to the commit message&lt;br&gt;git commit --no-verify         &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Skips pre-commit and commit-msg hooks (use cautiously)&lt;br&gt;git commit -q                  &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Suppresses commit output (quiet mode)&lt;br&gt;git commit --cleanup=mode      &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Controls how Git cleans the commit message (e.g. strip, verbatim)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="870" width="720" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-173" value="&lt;h2&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Git Remote&lt;/font&gt;&lt;/h2&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;pre style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;code&gt;git remote                  &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Lists remote connections&lt;br&gt;git remote -v               &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Lists remotes with fetch/push URLs&lt;br&gt;git remote add &amp;lt;name&amp;gt; &amp;lt;url&amp;gt; &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Adds a new remote connection&lt;br&gt;git remote remove &amp;lt;name&amp;gt;    &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Removes a remote&lt;br&gt;git remote rename &amp;lt;old&amp;gt; &amp;lt;new&amp;gt; &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Renames a remote&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;div&gt;&lt;code&gt;&lt;br&gt;&lt;/code&gt;&lt;/div&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="1310" width="450" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-174" value="&lt;p&gt;Perfect—let’s keep the same format and go through the rest of the core Git commands, organized cleanly.&lt;/p&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;h2&gt;Git Init &amp;amp; Config&lt;/h2&gt;&lt;br&gt;&lt;pre&gt;&lt;code&gt;git init                     Initializes a new Git repository in the current directory&lt;br&gt;git init --bare              Creates a bare repository (no working directory)&lt;br&gt;git config --global user.name &quot;Name&quot;         Sets the global Git username&lt;br&gt;git config --global user.email &quot;email&quot;       Sets the global Git email&lt;br&gt;git config --list            Lists current Git configuration&lt;br&gt;git config &amp;lt;key&amp;gt; &amp;lt;value&amp;gt;     Sets a config value (local or global)&lt;br&gt;git config --global core.editor &quot;editor&quot;     Sets your preferred commit editor&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;h2&gt;Git Status&lt;/h2&gt;&lt;br&gt;&lt;pre&gt;&lt;code&gt;git status                  Shows the status of working directory and staging area&lt;br&gt;git status -s               Short format status output (one-line per file)&lt;br&gt;git status --ignored        Shows ignored files too&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;h2&gt;Git Diff&lt;/h2&gt;&lt;br&gt;&lt;pre&gt;&lt;code&gt;git diff                    Shows changes between working directory and index (unstaged changes)&lt;br&gt;git diff --cached           Shows changes between index and last commit (staged changes)&lt;br&gt;git diff HEAD               Shows changes between working dir and last commit&lt;br&gt;git diff &amp;lt;commit1&amp;gt; &amp;lt;commit2&amp;gt;  Shows difference between two commits&lt;br&gt;git diff --name-only        Shows only filenames of changed files&lt;br&gt;git diff --stat             Shows summary of changes (lines added/removed)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;h2&gt;Git Log&lt;/h2&gt;&lt;br&gt;&lt;pre&gt;&lt;code&gt;git log                     Shows full commit history&lt;br&gt;git log --oneline           Condensed commit history (one commit per line)&lt;br&gt;git log --graph             Visual DAG of branch history&lt;br&gt;git log -p                  Shows patch (diff) with each commit&lt;br&gt;git log --stat              Shows file change summary per commit&lt;br&gt;git log --author=&quot;name&quot;     Filters commits by author&lt;br&gt;git log &amp;lt;file&amp;gt;              Shows history of a specific file&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;h2&gt;Git Branch&lt;/h2&gt;&lt;br&gt;&lt;pre&gt;&lt;code&gt;git branch                  Lists all local branches&lt;br&gt;git branch &amp;lt;name&amp;gt;           Creates a new branch&lt;br&gt;git branch -d &amp;lt;name&amp;gt;        Deletes a branch (safe; only if merged)&lt;br&gt;git branch -D &amp;lt;name&amp;gt;        Force deletes a branch&lt;br&gt;git branch -m &amp;lt;old&amp;gt; &amp;lt;new&amp;gt;   Renames a branch&lt;br&gt;git branch -a               Lists all local and remote branches&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;h2&gt;Git Checkout / Switch / Restore&lt;/h2&gt;&lt;br&gt;&lt;pre&gt;&lt;code&gt;git checkout &amp;lt;branch&amp;gt;       Switches to another branch&lt;br&gt;git checkout &amp;lt;commit&amp;gt;       Checks out a commit (detached HEAD)&lt;br&gt;git checkout -b &amp;lt;branch&amp;gt;    Creates and switches to a new branch&lt;br&gt;git switch &amp;lt;branch&amp;gt;         (Modern) Switches branches&lt;br&gt;git switch -c &amp;lt;branch&amp;gt;      (Modern) Creates and switches to a new branch&lt;br&gt;git restore &amp;lt;file&amp;gt;          Restores file from index (unstaged reset)&lt;br&gt;git restore --staged &amp;lt;file&amp;gt; Removes file from staging area (like reset)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;h2&gt;Git Reset&lt;/h2&gt;&lt;br&gt;&lt;pre&gt;&lt;code&gt;git reset &amp;lt;file&amp;gt;            Unstages a file (keeps working directory change)&lt;br&gt;git reset --soft HEAD^      Moves HEAD back one commit, keeps index and working dir&lt;br&gt;git reset --mixed HEAD^     Moves HEAD back, resets index (default), keeps working dir&lt;br&gt;git reset --hard HEAD^      Moves HEAD back, resets index and working dir&lt;br&gt;git reset &amp;lt;commit&amp;gt;          Resets HEAD and index to specific commit&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;h2&gt;Git Revert&lt;/h2&gt;&lt;br&gt;&lt;pre&gt;&lt;code&gt;git revert &amp;lt;commit&amp;gt;         Creates a new commit that undoes the given commit&lt;br&gt;git revert --no-commit &amp;lt;commit&amp;gt;  Prepares revert but doesn’t commit immediately&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;h2&gt;Git Merge&lt;/h2&gt;&lt;br&gt;&lt;pre&gt;&lt;code&gt;git merge &amp;lt;branch&amp;gt;          Merges given branch into current branch&lt;br&gt;git merge --no-ff           Forces a merge commit even if fast-forward is possible&lt;br&gt;git merge --abort           Aborts a conflicted merge&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;h2&gt;Git Rebase&lt;/h2&gt;&lt;br&gt;&lt;pre&gt;&lt;code&gt;git rebase &amp;lt;base&amp;gt;           Reapplies commits on top of another base branch&lt;br&gt;git rebase -i HEAD~n        Interactive rebase for editing/reordering commits&lt;br&gt;git rebase --continue       Continues a paused rebase&lt;br&gt;git rebase --abort          Cancels the rebase and resets state&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;h2&gt;Git Tag&lt;/h2&gt;&lt;br&gt;&lt;pre&gt;&lt;code&gt;git tag                     Lists all tags&lt;br&gt;git tag &amp;lt;name&amp;gt;              Creates a lightweight tag&lt;br&gt;git tag -a &amp;lt;name&amp;gt; -m &quot;msg&quot;  Creates an annotated tag with message&lt;br&gt;git tag -d &amp;lt;name&amp;gt;           Deletes a local tag&lt;br&gt;git push origin &amp;lt;tag&amp;gt;       Pushes a specific tag to remote&lt;br&gt;git push origin --tags      Pushes all tags to remote&lt;br&gt;git show &amp;lt;tag&amp;gt;              Shows tag details and target commit&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;h2&gt;&lt;br&gt;&lt;/h2&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="-1020" width="700" height="2440" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-175" value="&lt;h2 style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Git Pull &amp;amp; Fetch&lt;/font&gt;&lt;/h2&gt;&lt;pre style=&quot;&quot;&gt;&lt;code&gt;git fetch                   Downloads new data from remote but doesn’t merge&lt;br&gt;git pull                    Fetches and merges from remote&lt;br&gt;git pull --rebase           Fetches and rebases instead of merging&lt;/code&gt;&lt;/pre&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="470" width="560" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-177" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="440" as="sourcePoint" />
+            <mxPoint x="500" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-180" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Git Fetch&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_6Ugzg3BD1Cbug45hPQd-177">
+          <mxGeometry x="-0.02" relative="1" as="geometry">
+            <mxPoint x="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-181" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="360" as="sourcePoint" />
+            <mxPoint x="500" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-183" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="360" as="sourcePoint" />
+            <mxPoint x="100" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-184" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Git Pull&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_6Ugzg3BD1Cbug45hPQd-183">
+          <mxGeometry x="-0.4186" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-185" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="410" as="sourcePoint" />
+            <mxPoint x="700" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-186" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Git Push&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_6Ugzg3BD1Cbug45hPQd-185">
+          <mxGeometry x="-0.0486" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-187" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="320" as="sourcePoint" />
+            <mxPoint x="500" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-188" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="320" as="sourcePoint" />
+            <mxPoint x="300" y="320" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-190" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Git Clone&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_6Ugzg3BD1Cbug45hPQd-188">
+          <mxGeometry x="0.01" y="1" relative="1" as="geometry">
+            <mxPoint x="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-189" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="320" as="sourcePoint" />
+            <mxPoint x="100" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-191" value="&lt;h2 style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Git Push&lt;/font&gt;&lt;/h2&gt;&lt;pre style=&quot;&quot;&gt;&lt;code&gt;git push                    &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Pushes local branch to remote (default)&lt;br&gt;git push origin &amp;lt;branch&amp;gt;    &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Pushes specific branch to origin&lt;br&gt;git push -u origin &amp;lt;branch&amp;gt; &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Pushes branch and sets upstream&lt;br&gt;git push --tags             &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Pushes all local tags to remote&lt;br&gt;git push origin --delete &amp;lt;branch&amp;gt;  &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Deletes remote branch&lt;br&gt;git push origin --delete tag &amp;lt;tag&amp;gt; &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Deletes remote tag&lt;/code&gt;&lt;/pre&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="1170" width="600" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_6Ugzg3BD1Cbug45hPQd-192" value="&lt;h2 style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Git Clone&lt;/font&gt;&lt;/h2&gt;&lt;pre style=&quot;&quot;&gt;&lt;code&gt;git clone &amp;lt;url&amp;gt;             Clones a repository into a new directory&lt;br&gt;git clone &amp;lt;url&amp;gt; &amp;lt;dir&amp;gt;       Clones into specified directory&lt;br&gt;git clone --depth 1 &amp;lt;url&amp;gt;   Shallow clone with history truncated to latest commit&lt;/code&gt;&lt;/pre&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="570" width="540" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
